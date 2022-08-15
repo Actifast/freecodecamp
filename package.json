@@ -1,6 +1,6 @@
 {
-	"author": "Stanley Teo",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Stanley Teo",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
